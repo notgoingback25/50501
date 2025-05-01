@@ -32,7 +32,7 @@ This archive is not intended to escalate conflict. It exists solely to preserve 
 
 ## 🧭 Context and Timeline
 
-For a full account of what led to these filings—including the nonprofit formation, the April 22 Zoom call, the subreddit lockdown, and Reddit admin intervention—please read the public statement here:
+For a full account of what led to these filings—including the nonprofit formation, the April 22 Signal call, the subreddit lockdown, and Reddit admin intervention—please read the public statement here:
 
 https://www.reddit.com/user/NotGoingBack25/comments/1kcg8a6/subreddits_trademarks_and_the_collapse_of_trust/
 
